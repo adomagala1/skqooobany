@@ -1,3 +1,1 @@
--👋 HELLO! I'm Adrian, I'm learning JAVA and I'm going to develop desktop applications in the future :)
-- 👀 At the moment I'm getting the skills, then I'll find a job and it'll be great 
-- 🌱 I hope you will see my repositories, projects and stay longer, possibly leave a follow :)
+
